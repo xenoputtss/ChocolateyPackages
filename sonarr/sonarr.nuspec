@@ -1,0 +1,17 @@
+﻿<?xml version="1.0"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <metadata>
+    <id>sonarr.tv</id>
+    <title>Sonarr</title>
+    <version>2.0</version>
+    <authors>sonarr.tv</authors>
+    <owners>sonarr.tv</owners>
+    <summary>Sonarr is a PVR for Usenet and BitTorrent users.</summary>
+    <description>Sonarr is a PVR for Usenet and BitTorrent users. It can monitor multiple RSS feeds for new episodes of your favorite shows and will grab, sort and rename them. It can also be configured to automatically upgrade the quality of files already downloaded when a better quality format becomes available.</description>
+    <projectUrl>https://sonarr.tv/</projectUrl>
+    <tags>sonarr pvr usenet bittorrent</tags>
+    <licenseUrl>http://www.gnu.org/licenses/gpl.html</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance> <!-- or true if you require the user to accept the License before installing -->
+    <iconUrl>https://sonarr.tv/img/logo.png</iconUrl>
+  </metadata>
+</package>
