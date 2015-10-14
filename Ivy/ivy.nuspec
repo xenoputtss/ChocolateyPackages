@@ -1,0 +1,17 @@
+﻿<?xml version="1.0"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <metadata>
+    <id>apache-ivy</id>
+    <title>Apache Ivy (Install)</title>
+    <version>2.4.0</version>
+    <authors>https://ant.apache.org/ivy/</authors>
+    <owners>https://ant.apache.org/ivy/</owners>
+    <summary>Apache Ivy™ is a popular dependency manager focusing on flexibility and simplicity.</summary>
+    <description>Apache Ivy™ is a popular dependency manager focusing on flexibility and simplicity.</description>
+    <projectUrl>https://ant.apache.org/ivy/</projectUrl>
+    <tags>apache ivy dependency manager</tags>
+    <licenseUrl>https://www.apache.org/licenses/</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance> <!-- or true if you require the user to accept the License before installing -->
+    <iconUrl>https://ant.apache.org/ivy/images/ivy-lierre.png</iconUrl>
+  </metadata>
+</package>
